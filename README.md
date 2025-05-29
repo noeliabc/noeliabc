@@ -1,16 +1,22 @@
-## Hi there 👋
+# ¡Hola! Soy Noelia 👋
 
-<!--
-**noeliabc/noeliabc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Técnica Junior en Cloud y DevOps. Me apasiona automatizar procesos y crear soluciones usando **Azure**, **Kubernetes** y **Python**. 
 
-Here are some ideas to get you started:
+🔧 Actualmente estoy desarrollando un programa de gestión homologado para tiendas  
+📦 Me interesa todo lo relacionado con infraestructura como código, CI/CD y contenedores  
+📚 Estoy estudiando para mejorar mis conocimientos en cloud y seguridad
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tecnologías que uso
+- ☁️ Azure, Google Cloud (básico)
+- 🐳 Docker & Kubernetes
+- 📜 Terraform, Ansible
+- 🧩 Git, GitHub, Azure DevOps
+- 🐍 Python, Bash
+
+## 🛠 Proyectos destacados
+- [Programa de gestión para tienda](https://github.com/usuario/gestion-tienda)
+- [Monitorización con Prometheus + Grafana](https://github.com/usuario/monitoring-demo)
+- [Prácticas con Terraform en Azure](https://github.com/usuario/terraform-azure)
+
+## 📫 Contacto
+[LinkedIn](https://www.linkedin.com/in/noelia-barba/) | noelia@email.com
