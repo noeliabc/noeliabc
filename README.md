@@ -19,4 +19,5 @@ Soy Técnica Junior en Cloud y DevOps. Me apasiona automatizar procesos y crear 
 - [Prácticas con Terraform en Azure](https://github.com/usuario/terraform-azure)
 
 ## 📫 Contacto
-[LinkedIn]([(http://linkedin.com/in/noelia-barba-cárceles-2b694421b)/)] | nbcarceles43@gmail.com
+[LinkedIn](https://www.linkedin.com/in/noelia-barba/)
+| nbcarceles43@gmail.com
