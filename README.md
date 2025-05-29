@@ -7,7 +7,7 @@ Soy Técnica Junior en Cloud y DevOps. Me apasiona automatizar procesos y crear 
 📚 Estoy estudiando para mejorar mis conocimientos en cloud y seguridad
 
 ## 🧠 Tecnologías que uso
-- ☁️ Azure, Google Cloud (básico)
+- ☁️ Azure, Google cloud (Basico)
 - 🐳 Docker & Kubernetes
 - 📜 Terraform, Ansible
 - 🧩 Git, GitHub, Azure DevOps
@@ -19,5 +19,8 @@ Soy Técnica Junior en Cloud y DevOps. Me apasiona automatizar procesos y crear 
 - [Prácticas con Terraform en Azure](https://github.com/usuario/terraform-azure)
 
 ## 📫 Contacto
-[LinkedIn](https://www.linkedin.com/in/noelia-barba-carceles-2b94421b/)
-| nbcarceles43@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/noelia-barba-carceles-31a2a92b2/)
+  
+- ✉️ nbcarceles43@gmail.com  
+- 🌍 GitHub: [noeliabc](https://github.com/noeliabc)
