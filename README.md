@@ -20,7 +20,9 @@ Soy Técnica Junior en Cloud y DevOps. Me apasiona automatizar procesos y crear 
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/noelia-barba-carceles-31a2a92b2/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/noelia-barba-carceles-2b694421b)
   
 - ✉️ nbcarceles43@gmail.com  
 - 🌍 GitHub: [noeliabc](https://github.com/noeliabc)
+
